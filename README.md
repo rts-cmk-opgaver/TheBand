@@ -32,7 +32,7 @@ billeder gjort klar til dig, så du kan åbne billed-mappen i opgaven og kopiere
 over i img-mappen i din theband-mappe i Sites.
 
 <div align="center">
-  <img width="50%" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
+  <img width="50%" style="display: inline" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
   <img width="50%" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
 </div>
 
