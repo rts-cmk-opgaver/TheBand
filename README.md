@@ -40,3 +40,15 @@ Windows “Start”- menuen. Visual Studio Code
 åbner på et velkomst-faneblad som standard. I
 øverste venstre hjørne fra det område der hedder
 ’Start’ vælger du ”Open folder…”
+
+Find din theband mappe og klik på åben mappe. Et nyt område kommer nu til syne i brugerinterfacet
+ved siden af den mørkegrå lodrette bar til venstre. Det er en fil-explorer, som giver
+dig overblik over de åbne filer i din editor samt indholdet af den mappe du i øjeblikket
+arbejder med. 
+
+I området ’Open editors’ kan du se de filer der i øjeblikket er åbne i
+programmet. Lige nu er ’Welcome’-fanen stadig åben, så den kan ses i oversigten.
+Nedenunder vises indholdet af den mappe du netop har åbnet. Her vises de to mapper css
+og img. Mapper har små trekantede pile ud for navnet. Man kan klikke på pilen og få vist
+indholdet af mappen. Lige nu er mapperne tomme, så der kommer ikke n0get indhold, men
+pilen drejer 45° og bliver helt mørkegrå, hvis du klikker på den.
