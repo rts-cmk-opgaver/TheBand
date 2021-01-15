@@ -30,3 +30,13 @@ både at skrive og huske. Derfor skrives mappe og filnavne med små bogstaver. D
 et afsnit senere om navngivning af filer, dokumenter og mapper. I denne opgave er alle
 billeder gjort klar til dig, så du kan åbne billed-mappen i opgaven og kopiere alle billeder
 over i img-mappen i din theband-mappe i Sites.
+
+-----
+
+<img src="">
+
+Åben Visual Studio Code ... det kan du gøre fra
+Windows “Start”- menuen. Visual Studio Code
+åbner på et velkomst-faneblad som standard. I
+øverste venstre hjørne fra det område der hedder
+’Start’ vælger du ”Open folder…”
