@@ -33,7 +33,7 @@ over i img-mappen i din theband-mappe i Sites.
 
 -----
 
-<img src="">
+<img align="center" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
 
 Åben Visual Studio Code ... det kan du gøre fra
 Windows “Start”- menuen. Visual Studio Code
