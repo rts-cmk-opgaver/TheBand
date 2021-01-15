@@ -33,6 +33,7 @@ over i img-mappen i din theband-mappe i Sites.
 
 <div align="center">
   <img width="50%" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
+  <img width="50%" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
 </div>
 
 Åben Visual Studio Code ... det kan du gøre fra
