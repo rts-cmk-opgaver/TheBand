@@ -8,9 +8,6 @@
 
 <hr>
 
-**HTML og css tutorial**
-Roskilde teknikske skole · webudvikler · 2018
-
 - Forberedelse – oprettelse af mapper og filer
    - Oprettelse af mapper
    - Oprettelse af filer
