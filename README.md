@@ -65,7 +65,7 @@ et afsnit senere om navngivning af filer, dokumenter og mapper. I denne opgave e
 billeder gjort klar til dig, så du kan åbne billed-mappen i opgaven og kopiere alle billeder
 over i img-mappen i din theband-mappe i Sites.
 
-<div>
+<div style="display: flex">
   <img width="250" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
   <span>
     ```
