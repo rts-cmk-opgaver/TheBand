@@ -66,7 +66,7 @@ billeder gjort klar til dig, så du kan åbne billed-mappen i opgaven og kopiere
 over i img-mappen i din theband-mappe i Sites.
 
 <div>
-    <img src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/The%20band%20tutorial%202018.jpg">
+    <img src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
   <span>```
 Åben Visual Studio Code ... det kan du gøre fra
 Windows “Start”- menuen. Visual Studio Code
