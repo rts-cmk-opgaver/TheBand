@@ -67,13 +67,14 @@ over i img-mappen i din theband-mappe i Sites.
 
 <div>
   <img width="250" src="https://github.com/rts-cmk-opgaver/TheBand/blob/main/Beskrivelsesmaterialer/welcome.jpg">
-  <span>```
-Åben Visual Studio Code ... det kan du gøre fra
-Windows “Start”- menuen. Visual Studio Code
-åbner på et velkomst-faneblad som standard. I
-øverste venstre hjørne fra det område der hedder
-’Start’ vælger du ”Open folder...”
-```
+  <span>
+    ```
+    Åben Visual Studio Code ... det kan du gøre fra
+    Windows “Start”- menuen. Visual Studio Code
+    åbner på et velkomst-faneblad som standard. I
+    øverste venstre hjørne fra det område der hedder
+    ’Start’ vælger du ”Open folder...”
+    ```
   </span>
 </div>
 _Figur 1 - Velkomst skærmbilledet_
