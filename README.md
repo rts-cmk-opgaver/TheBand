@@ -8,6 +8,8 @@
 
 <hr>
 
+## Opgavens indhold
+
 - Forberedelse – oprettelse af mapper og filer
    - Oprettelse af mapper
    - Oprettelse af filer
