@@ -6,6 +6,7 @@
   </p>
 </div>
 
+<hr>
 
 **HTML og css tutorial**
 Roskilde teknikske skole · webudvikler · 2018
